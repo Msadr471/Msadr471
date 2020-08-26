@@ -31,4 +31,4 @@ msadr471@gmail.com
 
 Social Media:
 ----
-find my any socila media with "msadr471"
+Find my in any socila media with "msadr471".
