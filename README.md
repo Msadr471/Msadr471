@@ -6,11 +6,12 @@ I work for myself and to increase my knowledge of fertilizer. I am very interest
 In these fields, every dear dealer needed my help. I am at your service 😎💙
 
 My fields of work and activity:
-Design and development of analog and digital circuits
-Print circuit design
-C and C ++ languages.
-Work with STM32 and AVR series microcontrollers.
-Internet of Things
+
+-- Design and development of analog and digital circuits
+-- Print circuit design
+-- C and C ++ languages.
+-- Work with STM32 and AVR series microcontrollers.
+-- Internet of Things
 
 ID
 ----
