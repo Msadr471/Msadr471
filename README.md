@@ -14,17 +14,17 @@ Internet of Things
 
 ID
 ----
-ID: Msadr471
+@Msadr471
 
 Persian Blog:
 ----
-my Blog: http://www.mElectronics.IR/
+Blog: http://www.mElectronics.IR/
 
 Email:
 -----
-email: msadr471@gmail.com
+msadr471@gmail.com
+
 
 Social Media:
 ----
 find my any socila media with "msadr471"
-
