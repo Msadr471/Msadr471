@@ -19,7 +19,7 @@ ID
 
 Persian Blog:
 ----
-🕸 Blog: http://www.mElectronics.IR/
+🕸 http://www.mElectronics.IR/
 
 
 Email:
