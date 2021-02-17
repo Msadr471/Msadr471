@@ -7,9 +7,9 @@ I am an electronics engineering student. I work for myself and to increase my kn
 ⚒ My fields of work and activity:
 ----
 - 📎 Design and development of analog and digital circuits.
-- 📎 Print circuit design.
+- 📎 PCB design.
 - 📎 C and C ++ languages.
-- 📎 Work with STM32 and AVR series microcontrollers.
+- 📎 Working with STM32 and AVR series microcontrollers.
 - 📎 Internet of Things.
 
 ID
