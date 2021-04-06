@@ -7,17 +7,17 @@ I am an electronics engineering student. I work for myself and to increase my kn
 ⚒ My fields of work and activity:
 ----
 - 📎 Design and development of analog and digital circuits.
-- 📎 PCB design.
-- 📎 C and C ++ languages.
-- 📎 Working with STM32 and AVR series microcontrollers.
-- 📎 Internet of Things.
+- 📎 PCB.
+- 📎 C and C ++.
+- 📎 STM32 and AVR microcontrollers.
+- 📎 IoT.
 
 ID
 ----
 🆔 @Msadr471
 
 
-Persian Blog:
+Blog:
 ----
 🕸 http://www.mElectronics.IR/
 
@@ -29,4 +29,4 @@ Email:
 
 Social Media:
 ----
-💫 Find my in any socila media with "msadr471".
+💫 @msadr471
