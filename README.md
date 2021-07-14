@@ -1,6 +1,6 @@
 Hi buddy 😎
 
-I'm an electronics engineering. I'm currently working to increase my level of knowledge. I'm very interested in analog and digital circuits, especially analog, yes, I like analog more than digital! I don't like programming much!🤔. In these fields, every dear person needed my help **I'm at your service** 😎💙
+I'm an electronics engineer. I'm currently working to increase my level of knowledge. I'm very interested in analog and digital circuits, especially analog, yes, I like analog more than digital! I don't like programming much!🤔. In these fields, every dear person needed my help **I'm at your service** 😎💙
 
 In the beginning, I am looking to build a **10kW solar power plant**⚡ for my house!
 
