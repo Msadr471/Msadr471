@@ -12,15 +12,6 @@ Electricity is a clean energy for everyone that flows in the veins of the Earth!
 - 📎 Design and development of analog and digital circuits.
 - 📎 PCB, Altium Designer.
 
-Blog:
-----
-🕸 http://www.mElectronics.IR/
-
-
-Email:
------
-✉ Msadr471@gmail.com
-
 
 Social Media:
 ----
