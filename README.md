@@ -6,8 +6,3 @@ I'm an electronics engineer. I'm currently working to increase my level of knowl
 ----
 - 📎 Design and development of analog and digital circuits.
 - 📎 PCB, Altium Designer.
-
-
-Social Media:
-----
-💫 @Msadr471 or https://www.google.com/search?q=msadr471
